@@ -1,10 +1,10 @@
 # lvl-novato
+
 #include <stdio.h>
 #include <string.h>
 
 #define MAX_ITENS 10
 
-// Estrutura para representar um item
 typedef struct {
     char nome[50];
     char tipo[30];
