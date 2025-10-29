@@ -1,9 +1,5 @@
 # lvl-novato
 
-#Primeiro projeto de programação em C
-
-
-
 #include <stdio.h>
 #include <string.h>
 
